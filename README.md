@@ -3,7 +3,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║      H A R S H   K U M A R  —  Full Stack Developer       ║
+║      H A R S H   K U M A R  —  AI-Full Stack Developer       ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -19,7 +19,7 @@
 ```yaml
 Name        : Harsh Kumar
 Location    : Delhi, India
-Role        : Full Stack Developer
+Role        : AI-Full Stack Developer
 Focus       : MERN Stack · JavaScript · TypeScript · C++
 Contact     : harshdaksh082@gmail.com
 ```
