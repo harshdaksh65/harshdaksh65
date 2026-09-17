@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web.;Full+Stack+%7C+C%2B%2B+%7C+Problem+Solver.;Based+in+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web.;Full+Stack+%7C+AI+%7C+C%2B%2B+%7C+Problem+Solver.;Based+in+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 </div>
 
